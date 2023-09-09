@@ -1,4 +1,4 @@
-/*
+package com.example.demoapp/*
 Exercise Variables And Datatypes
 Please write a program in which you are assigning those values to variables with the right (specific) data type:
 
